@@ -21,4 +21,8 @@
     tbody tr td{
         @apply py-4 text-[14px]
     }
+    .invis {
+        z-index: -3 !important;
+    }
+    
 }
